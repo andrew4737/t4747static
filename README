@@ -1,0 +1,80 @@
+***02-23-19 T4737.com Static Web Site on AWS S3 Bucket
+
+Endpoint : http://t4737static.s3-website.ca-central-1.amazonaws.com
+
+voltaire@peppermint-Aspire-5560 ~/Downloads/t4737static $ tree
+.
+├── assets
+│   ├── css
+│   │   ├── font-awesome.min.css
+│   │   ├── images
+│   │   │   └── intro.svg
+│   │   ├── main.css
+│   │   └── noscript.css
+│   ├── fonts
+│   │   ├── FontAwesome.otf
+│   │   ├── fontawesome-webfont.eot
+│   │   ├── fontawesome-webfont.svg
+│   │   ├── fontawesome-webfont.ttf
+│   │   ├── fontawesome-webfont.woff
+│   │   └── fontawesome-webfont.woff2
+│   ├── js
+│   │   ├── breakpoints.min.js
+│   │   ├── browser.min.js
+│   │   ├── jquery.min.js
+│   │   ├── jquery.scrollex.min.js
+│   │   ├── jquery.scrolly.min.js
+│   │   ├── main.js
+│   │   └── util.js
+│   └── sass
+│       ├── base
+│       │   ├── _page.scss
+│       │   ├── _reset.scss
+│       │   └── _typography.scss
+│       ├── components
+│       │   ├── _actions.scss
+│       │   ├── _box.scss
+│       │   ├── _button.scss
+│       │   ├── _contact.scss
+│       │   ├── _features.scss
+│       │   ├── _form.scss
+│       │   ├── _icon.scss
+│       │   ├── _icons.scss
+│       │   ├── _image.scss
+│       │   ├── _list.scss
+│       │   ├── _menu.scss
+│       │   ├── _row.scss
+│       │   ├── _section.scss
+│       │   ├── _split.scss
+│       │   ├── _spotlights.scss
+│       │   ├── _table.scss
+│       │   └── _wrapper.scss
+│       ├── layout
+│       │   ├── _footer.scss
+│       │   ├── _header.scss
+│       │   ├── _intro.scss
+│       │   ├── _sidebar.scss
+│       │   └── _wrapper.scss
+│       ├── libs
+│       │   ├── _breakpoints.scss
+│       │   ├── _functions.scss
+│       │   ├── _html-grid.scss
+│       │   ├── _mixins.scss
+│       │   ├── _vars.scss
+│       │   └── _vendor.scss
+│       ├── main.scss
+│       └── noscript.scss
+├── elements.html
+├── generic.html
+├── images
+│   ├── pic01.jpg
+│   ├── pic02.jpg
+│   ├── pic03.jpg
+│   ├── pic04.jpg
+│   ├── pic05.jpg
+│   └── pic06.jpg
+├── index.html
+├── LICENSE.txt
+└── README.txt
+
+11 directories, 61 files
